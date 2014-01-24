@@ -36,7 +36,7 @@ namespace GGJ2014
             // TODO: Add your initialization logic here
 
             base.Initialize();
-            int i = 0;
+            int i = 1;
         }
 
         /// <summary>
